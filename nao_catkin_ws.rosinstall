@@ -1,8 +1,8 @@
- - git: {local-name: nao_hri, uri: github.com/uoa-robotics/nao_hri.git, version: nao_iteration}
- - git: {local-name: ros_blender_bridge, uri: github.com/geni-lab/ros_blender_bridge.git, version: nao_iteration}
- - git: {local-name: hri, uri: github.com/uoa-robotics/hri.git, version: nao_iteration}
- - git: {local-name: openni_tracker, uri: github.com/jdddog/openni_tracker.git, version: nao_iteration}
- - git: {local-name: openni_launch, uri: github.com/ros-drivers/openni_launch.git, version: indigo-devel}
- - git: {local-name: openni_camera, uri: github.com/ros-drivers/openni_camera.git, version: indigo-devel}
+ - git: {uri: github.com/uoa-robotics/nao_hri.git, version: nao_iteration}
+ - git: {uri: github.com/geni-lab/ros_blender_bridge.git, version: nao_iteration}
+ - git: {uri: github.com/uoa-robotics/hri.git, version: nao_iteration}
+ - git: {uri: github.com/jdddog/openni_tracker.git, version: nao_iteration}
+ - git: {uri: github.com/ros-drivers/openni_launch.git, version: indigo-devel}
+ - git: {uri: github.com/ros-drivers/openni_camera.git, version: indigo-devel}
  - setup-file:
     local-name: /opt/ros/indigo/setup.sh
