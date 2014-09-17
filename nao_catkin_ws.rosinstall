@@ -1,4 +1,4 @@
- - git: {uri: github.com/uoa-robotics/nao_hri.git, version: nao_iteration}
+ - git: {local-name: nao_hri, uri: github.com/uoa-robotics/nao_hri.git, version: nao_iteration}
  - git: {local-name: ros_blender_bridge, uri: https://github.com/geni-lab/ros_blender_bridge.git, version: nao_iteration}
  - git: {local-name: hri, uri: https://github.com/uoa-robotics/hri.git, version: nao_iteration}
  - git: {local-name: openni_tracker, uri: https://github.com/jdddog/openni_tracker.git, version: nao_iteration}
