@@ -1,6 +1,7 @@
-- git: {local-name: nao_hri, uri: 'https://github.com/uoa-robotics/nao_hri.git'}
-- git: {local-name: ros_blender_bridge, uri: 'https://github.com/geni-lab/ros_bge_bridge.git'}
-- git: {local-name: hri, uri: 'https://github.com/uoa-robotics/hri.git'}
+- git: {local-name: nao_robot, uri: https://github.com/jdddog/nao_robot.git'}
+- git: {local-name: nao_hri, uri: 'https://github.com/jdddog/nao_hri.git'}
+- git: {local-name: ros_blender_bridge, uri: 'https://github.com/jdddog/ros_bge_bridge.git'}
+- git: {local-name: hri, uri: 'https://github.com/jdddog/hri.git'}
 - git: {local-name: itf_listen, uri: 'https://github.com/geni-lab/itf_listen.git'}
 - setup-file:
     local-name: /opt/ros/indigo/setup.sh
